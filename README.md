@@ -59,34 +59,11 @@ Aqui eu reúno o que venho construindo na faculdade: programação em **C** e **
 
 <br/>
 
-## ✦ Estatísticas
+## ✦ Linguagens mais usadas
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabrielle206&show_icons=true&hide_border=false&bg_color=0D1117&border_color=1E3A8A&title_color=3B82F6&text_color=C9D1D9&icon_color=60A5FA&ring_color=2563EB&count_private=true" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielle206&layout=compact&hide_border=false&bg_color=0D1117&border_color=1E3A8A&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=Gabrielle206&hide_border=false&background=0D1117&border=1E3A8A&stroke=1E3A8A&ring=2563EB&fire=3B82F6&currStreakNum=60A5FA&sideNums=60A5FA&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-## ✦ Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielle206&bg_color=0D1117&color=60A5FA&line=2563EB&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" alt="Activity Graph" width="100%" />
-
-</div>
-
-<br/>
-
-## ✦ Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gabrielle206&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
