@@ -38,7 +38,7 @@ Aqui eu reúno o que venho construindo na faculdade: programação em **C** e **
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Gabrielle206/Optimus-ERP">📦 Optimus-ERP</a></h3>
+      <h3><a href="https://github.com/Gabrielle206/Optimus-projeto-ERP">📦 Optimus-ERP</a></h3>
       <p>Projeto desenvolvido em Java.</p>
       <img src="https://img.shields.io/badge/Java-1E3A8A?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
     </td>
