@@ -57,7 +57,7 @@ Aqui eu reúno o que venho construindo na faculdade: programação em **C** e **
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Gabrielle206/Sistema-de-recomenda-o-musical---ProLog">🖥️ Sistema de Recomendação Musical em Prolog</a></h3>
       <p>O usuário informa suas preferências e recebe um ranking com as 10 músicas mais compatíveis. Cada usuário tem um histórico próprio, que influencia as próximas recomendações.</p>
-      <img src="https://img.shields.io/badge/Java-1E3A8A?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Prolog-1E3A8A?style=flat-square&logo=openjdk&logoColor=white" alt="Prolog" />
     </td>
   </tr>
 </table>
